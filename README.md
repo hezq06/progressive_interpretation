@@ -1,5 +1,6 @@
 Code for reproducing results of paper:
 "An Information-theoretic Progressive Framework for Interpretation"
+https://arxiv.org/abs/2101.02879
 Authors: Zhengqi He @ NCA Lab, CBS, RIKEN, Japan
 Taro Toyoizumi @ NCA Lab, CBS, RIKEN & UTokyo, Japan
 
